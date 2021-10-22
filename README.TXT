@@ -1,5 +1,5 @@
 README.TXT
-Dollar Bets 
+Dollar Bets edit
 
 Copyright:
   Copyright (c) Richard Kirk - all right reserved.
